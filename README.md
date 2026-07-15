@@ -1,24 +1,5 @@
-# README
+# Autoshqip
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A car marketplace for Albania built with Ruby on Rails 8. "Shqip" is the Albanian word for Albanian — the name reflects the local focus of the project.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built as a pet project to explore event-driven architecture using Kafka and Rails 8.
